@@ -1,0 +1,29 @@
+.ListItemDiv{
+    width: 75%;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: #c8b6ff;
+    border-radius: 16px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    /* text-align: center; */
+}
+
+.itemDiv{
+    margin-left : 5px;
+}
+
+.DoneButton{
+    margin-right : 5px;
+    border-radius: 16px;
+    border: none;
+    background-color: #a2d2ff;
+}
+
+.DoneButton:hover{
+    background-color: #bde0fe;
+}

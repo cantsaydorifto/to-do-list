@@ -1,0 +1,15 @@
+h1{
+    margin-top: 20px;
+    margin-bottom: 0;
+}
+
+.AddItemButton{
+    border: none;
+    border-radius: 16px;
+    height: 30px;
+    background-color: #ffd6ff;
+}
+
+.AddItemButton:hover{
+    background-color: aliceblue;
+}
